@@ -16,10 +16,13 @@ Firstly, yes, I made some mistakes. I was 12 at the time and wasn't fully aware 
 Electron is a JavaScript framework, and as you may know, JavaScript is not a compiled language. Injecting code was, therefore, easy, especially since it was retained on every startup, as was the case for Exodus.
 
 ## Will There Be Another PirateStealer One Day?
-As I said at the beginning of 2023, PirateStealer is dead. There will be no more PirateStealer, and all the news relating PS and Gotham are purely fake. Gotham is a completely different project made by people I know and respect, but it is clearly a private & malicious malware.
+As I said at the beginning of 2023, PirateStealer is dead. There will be no more PirateStealer, and all the news relating PS and Gotham are purely fake. Gotham is a completely different project made by people I know and respect, but it is clearly a private & malicious malware. See :
+- https://cybermaterial.com/pirate-stealer-rebrands-as-gotham-stealer/
+- https://thecyberexpress.com/pirate-stealer-is-gotham-stealer-on-dark-web/
 
 ## The Crazy Inactivity of Discord, Knowing the Vulnerability Is Still There
 I remember publishing a thousand ways and proofs of concept on how to fix Discord, and not a single fix happened!
+![image](https://github.com/Stanley-GF/PirateStealer-Explained/assets/66573599/42b7acdd-3e41-479d-9d0b-f7117c30bb8f)
 
 I wish to thank Exodus Wallet because, unlike Discord, they fixed the vulnerability as soon as I reported it to them.
 
