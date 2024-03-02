@@ -1,42 +1,43 @@
 # PirateStealer
-## My goals when I created PirateStealer
-Back in 2020, I had lost my Discord account due to a malware I downloaded on my computer. I guess every vilain has a backstory, and when I lost my account, I wasn't mad nor sad, I was amazed, amazed by how an application, a small 270kb executable file took all my informations. 
+## My Goals When I Created PirateStealer
+Back in 2020, I lost my Discord account due to malware I downloaded onto my computer. I suppose every villain has a backstory. When I lost my account, I wasn't mad or sad; I was amazed by how an application, a small 270kb executable file, took all my information.
 
-I had coding knowledges already, and I wanted to demonstrate to Discord that their application was terrible in term of security, especially using Electron. And was even worst for Exodus, That's how I created the first malware using an injection in Electron to gather informations like a Keylogger. 
+I already had coding knowledge and wanted to demonstrate to Discord that their application was terribly insecure, especially using Electron, and even worse for Exodus. That's how I created the first malware using an injection in Electron to gather information like a keylogger.
 
-My goals never been to infect people nor to make money from it, and the perfect example is that I never used it, and I always gave people contacting me helps & made a malware remover and contributed to most of them, as well as contributing to malware analysis. I was young at that time, 12 when the project started, and really believed in the educational purpose of the malware.
+My goals were never to infect people or to make money from it. The perfect example is that I never used it and always provided help to people contacting me. I created a malware remover and contributed to most of them, as well as to malware analysis. I was young at the time, 12 when the project started, and truly believed in the educational purpose of the malware.
 
-## Do I regret ?
-To make it clear, I do not regret a single line of code of PirateStealer. If I wasn't the one who made PirateStealer, it would have been someone else that would have kept the source private, and would have made it harder for malware & security engineers. Of course, some certains things could have gone different (like BBY Stealer taking my source and my research) but I feel like if I wouldn't have created this "malware" which was most a proof of concept than a malware, Discord would have kept on being so unsecure. 
+## Do I Regret It?
+To make it clear, I do not regret a single line of code of PirateStealer. If I hadn't been the one who made PirateStealer, someone else would have, keeping the source private and making it harder for malware & security engineers. Of course, some things could have gone differently (like BBY Stealer taking my source and research), but I feel that if I hadn't created this "malware" — which was more a proof of concept than actual malware — Discord would have continued to be insecure.
 
-## What would I have done differently ?
-Firstly, I did some mistakes, yeah, I was 12 at that time, I wasn't fully aware of what I was doing, so keeping the source working yeah but maybe not building a stub for it. 
+## What Would I Have Done Differently?
+Firstly, yes, I made some mistakes. I was 12 at the time and wasn't fully aware of what I was doing, so keeping the source working, yes, but maybe not building a stub for it.
 
-## How was the PoC (PirateStealer) working ?
-Electron is a JS framework, and as you may know, JS is not a compiled language. Injecting a code was in that case so easy, knowing that it was kept on every startup. So was it for Exodus. 
+## How Was the PoC (PirateStealer) Working?
+Electron is a JavaScript framework, and as you may know, JavaScript is not a compiled language. Injecting code was, therefore, easy, especially since it was retained on every startup, as was the case for Exodus.
 
-## Is there gonna be another PirateStealer one day ?
-As I said in the beginning of 2023, PirateStealer is dead, no more PirateStealer, and all the news I see relating PS and Gotham are purely fake. Gotham is a whole different project made by people I know, and I respect, but is clearly a private & bad intention malware 
-(ex: 
+## Will There Be Another PirateStealer One Day?
+As I said at the beginning of 2023, PirateStealer is dead. There will be no more PirateStealer, and all the news relating PS and Gotham are purely fake. Gotham is a completely different project made by people I know and respect, but it is clearly a private & malicious malware. See :
 - https://cybermaterial.com/pirate-stealer-rebrands-as-gotham-stealer/
-- https://thecyberexpress.com/pirate-stealer-is-gotham-stealer-on-dark-web/)
+- https://thecyberexpress.com/pirate-stealer-is-gotham-stealer-on-dark-web/
 
-## The crazy inactivity of Discord, knowing the vulnerability is still there, I remember publishing a thousand ways, and PoC of how to fix Discord, and not a single fix happened!
+## The Crazy Inactivity of Discord, Knowing the Vulnerability Is Still There
+I remember publishing a thousand ways and proofs of concept on how to fix Discord, and not a single fix happened!
 ![image](https://github.com/Stanley-GF/PirateStealer-Explained/assets/66573599/42b7acdd-3e41-479d-9d0b-f7117c30bb8f)
 
-I wish to thank Exodus Wallet cause, unlike Discord, they fixed the vulnerability as soon as I reported it to them.
+I wish to thank Exodus Wallet because, unlike Discord, they fixed the vulnerability as soon as I reported it to them.
 
-# I have met Great People through this adventure, and by the way, I made 0 single dollars off PirateStealer while other people did stealing my source. At that moment I understood how terrible open-source was, so if I can give you one advice, never do open-source, if you have a good idea, a good project, sell it !
+## I Have Met Great People Through This Adventure
+By the way, I made 0 dollars off PirateStealer while other people made money by stealing my source. At that moment, I understood how terrible open-source was. So, if I can give you one piece of advice, never do open-source. If you have a good idea, a good project, sell it!
 
-Thank you- 
-## Resources about PirateStealer that I wish to share
-https://arstechnica.com/information-technology/2021/12/malicious-packages-sneaked-into-npm-repository-stole-discord-tokens/
-https://news.ycombinator.com/item?id=30146520
-https://www.pcrisk.com/removal-guides/27005-piratestealer-malware
-https://www.youtube.com/watch?v=QEnYkkzwCG8
-https://otx.alienvault.com/pulse/61d55fb24f8cb2b3b187c7f5
-https://howtofix.guide/piratestealer-malware/
-https://hackernoon.com/reversing-nodejs-malware-part-2-analysing-the-source-code
-https://itnext.io/how-i-reversed-a-nodejs-malware-and-found-the-author-7dd9531b389f
-https://github.com/TrojanLij & https://www.reddit.com/r/discordapp/comments/qlgu1i/is_anyone_else_receiving_suspicious_messages_from/hj4n6ih/?context=3
-https://www.reddit.com/r/Malware/comments/zdpzgz/discord_malware_analysis/
+Thank you.
+## Resources About PirateStealer That I Wish to Share
+- [Ars Technica article on malicious packages](https://arstechnica.com/information-technology/2021/12/malicious-packages-sneaked-into-npm-repository-stole-discord-tokens/)
+- [Hacker News discussion](https://news.ycombinator.com/item?id=30146520)
+- [PCRisk removal guide](https://www.pcrisk.com/removal-guides/27005-piratestealer-malware)
+- [YouTube video on PirateStealer](https://www.youtube.com/watch?v=QEnYkkzwCG8)
+- [OTX AlienVault pulse](https://otx.alienvault.com/pulse/61d55fb24f8cb2b3b187c7f5)
+- [HowToFix guide](https://howtofix.guide/piratestealer-malware/)
+- [HackerNoon reversing Node.js malware analysis](https://hackernoon.com/reversing-nodejs-malware-part-2-analysing-the-source-code)
+- [ITNext article on reversing a Node.js malware](https://itnext.io/how-i-reversed-a-nodejs-malware-and-found-the-author-7dd9531b389f)
+- [Discussion on Reddit about suspicious messages](https://www.reddit.com/r/discordapp/comments/qlgu1i/is_anyone_else_receiving_suspicious_messages_from/hj4n6ih/?context=3)
+- [Reddit discussion on Discord malware analysis](https://www.reddit.com/r/Malware/comments/zdpzgz/discord_malware_analysis/)
